@@ -185,7 +185,7 @@ Here are some ideas to get you started:
 <hr/>
 
 
-<h1 align="center">Hi 👋, I'm Ved</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ved</h1>
 <h3 align="center">A passionate full stack web developer, cross platform app developer and blockchain developer from India</h3>
 
 - 🔭 I’m currently working on **Blockchain**
@@ -204,5 +204,5 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedxpatel&show_icons=true&locale=en&layout=compact" alt="vedxpatel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedxpatel&show_icons=true&locale=en" alt="vedxpatel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedxpatel&show_icons=true&locale=en" alt="vedxpatel" /></p> -->
 
