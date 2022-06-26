@@ -183,3 +183,26 @@ Here are some ideas to get you started:
 </p>
  -->
 <hr/>
+
+
+<h1 align="center">Hi 👋, I'm Ved</h1>
+<h3 align="center">A passionate full stack web developer, cross platform app developer and blockchain developer from India</h3>
+
+- 🔭 I’m currently working on **Blockchain**
+
+- 🌱 I’m currently learning **Data Science**
+
+- 💬 Ask me about **MERN**
+
+- 📫 How to reach me **vedpatel4477@outlook.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vedpatel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedpatel_" height="30" width="40" /></a>
+<a href="https://instagram.com/vedpatel._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedpatel._" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedxpatel&show_icons=true&locale=en&layout=compact" alt="vedxpatel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedxpatel&show_icons=true&locale=en" alt="vedxpatel" /></p>
+
