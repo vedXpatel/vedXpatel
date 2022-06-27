@@ -44,13 +44,22 @@ Here are some ideas to get you started:
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
   </div>
-  <div style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-  </div>
-
-</div>
+ <img src="./images/html-5.svg" width="55" height="55" />
+ <img src="./images/css-3.svg" width="55" height="55" />
+ <img src="./images/bootstrap.svg" width="55" height="55" />
+ <img src="./images/nodejs-icon.svg" width="55" height="55" />
+ <img src="./images/express.svg" height="55" style="filter:invert(100%)"/>
+ <img src="./images/firebase.svg" width="55" height="55" />
+ <img src="./images/flask.svg" width="55" height="55" style="filter:invert(100%)" />
+ <img src="./images/flutter.svg" width="55" height="55" />
+ <img src="./images/mongodb.svg" height="55" />
+ <img src="./images/material-ui.svg" width="55" height="55" />
+ <img src="./images/heroku-icon.svg" width="55" height="55" />
+ <img src="./images/netlify.svg" width="55" height="55" />
+ <img src="./images/tailwindcss-icon.svg" width="55" height="55" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
