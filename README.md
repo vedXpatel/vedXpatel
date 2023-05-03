@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p align="center">
 </p>
 <hr/>
-<h4 align="center">I am second year CSE undergrad at K.J. Somaiya College of Engineering, Mumbai. I like to Code, Design, Innovate and Experiment. I am an enthusiastic person who loves to take up new challenges and learn new skills. I am a Full Stack Web Developer and React Native Developer. Currently exploring Data Science and Blockchain Development� </h4>
+<h4 align="center">I am third year CSE undergrad at K.J. Somaiya College of Engineering, Mumbai. I like to Code, Design, Innovate and Experiment. I am an enthusiastic person who loves to take up new challenges and learn new skills. I am a Full Stack Web Developer and React Native Developer. Currently exploring Data Science and Blockchain Development� </h4>
 <hr>
 <br>
 
