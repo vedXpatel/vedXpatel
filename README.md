@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <hr>
 <br>
 
-- 🔭 I’m currently working on **Timber Calculator**
+- 🔭 I’m currently working on **Winvestor**
 
 - 🌱 I’m currently learning **Blockchain**
 
